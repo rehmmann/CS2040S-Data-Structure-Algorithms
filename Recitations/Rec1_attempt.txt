@@ -1,0 +1,48 @@
+Reciation 1
+
+1)
+(a)
+
+What is the order of growth forisPrimegiven the following order of growths forisDivisible(n,i)?
+1.  Time:O(1), SpaceO(1)
+
+Time: O(1) x n
+Space: O(1)
+
+Space should be same
+Time should be multiplied by n
+
+2.Space doesnot add
+O(n)
+(b)
+
+1.
+
+Space should be same because iteration changes variable value
+
+Time should be multiplied by sqrt(n)
+
+T(n) = sqrt(n)T(
+(c)
+
+You can assume that the order of growth forisDivisible(n,i)isO(1).
+
+
+Time : isPrime gets called 
+
+??????
+
+
+(d)
+
+1.	log2(n) = 
+
+2.	Is 2^(2n) = 4^n = O(2^n)?
+
+False
+
+
+Qn2)
+
+(a)
+
